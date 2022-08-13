@@ -309,7 +309,7 @@ Function That Prints An Integer With Plus Symbol.
 ------------
 
 ### print_space_int.c
-Function That Prints An Integer Begining With 0 And u.
+Function That Prints An Integer Begining With 0 And u..
 ```c
 /* Indetifier : % i */
 ```
