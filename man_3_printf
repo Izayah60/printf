@@ -6,7 +6,7 @@
 .nf
 .BI printf (FORMAT, ARGUMENT)...
 .PP
-.BI "#include 'holberton.h'"
+.BI "#include 'main.h'"
 .BI "#include <stdarg.h>"
 .BI "#include <unistd.h>"
 .PP
@@ -103,7 +103,7 @@ The character \fI%\fR is followed by zero the following flags:
 .SH EXAMPLE
 .R To print the the string \fBHello Holberton!\fR and its length in decimal.
 
-#include ''holberton.h''
+#include ''main.h''
 
 int main(void)
 
